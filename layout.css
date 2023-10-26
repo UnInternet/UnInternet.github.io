@@ -46,21 +46,6 @@
 			margin: 15px; /* Provides padding for the content */
 		}
 		
-		p {
-			color: #555;
-		}
-
-		nav ul {
-			list-style-type: none;
-			margin: 0;
-			padding: 0;
-		}
-		
-		nav ul a {
-			color: darkgreen;
-			text-decoration: none;
-		}
-				
 		/*IE6 fix*/
 		* html body{
 			padding: 100px 0 0 230px; /* Set the first value to the height of the header and last value to the width of the nav */
