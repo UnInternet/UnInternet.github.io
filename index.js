@@ -1,4 +1,4 @@
-var button = document.getElementById("btnSearch");
+var button = document.getElementById("button");
 
 button.onclick = function () {
     var search = document.getElementById("text").value;
