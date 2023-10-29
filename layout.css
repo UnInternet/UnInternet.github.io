@@ -16,6 +16,7 @@
 			height: 100px; 
 			overflow: hidden; /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
 			background: #003399;
+			color: white;
 		}
 		
 		#nav {
