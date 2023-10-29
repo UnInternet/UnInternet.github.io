@@ -4,7 +4,7 @@
 ## How to collaborate
 1. Contribute to the GitHub repo.
 2. Join our [Discord server](https://discord.com/invite/a6euRPXkfU), we will give you a role after joining.
-3. At "Issues", request an issue
+3. At "Issues", request an issue.
 
 ## Rules
 check [RULES.md](/RULES.md)
