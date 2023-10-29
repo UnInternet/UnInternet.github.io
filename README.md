@@ -5,3 +5,4 @@
 check [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ## Rules
+check [RULES.md](/RULES.md)
