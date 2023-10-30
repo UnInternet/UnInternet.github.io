@@ -7,6 +7,11 @@
 3. At "Issues", request an issue.
 
 ## Rules
-check [RULES.md](/RULES.md)
 
-# Wiki
+
+## External Links
+* [Website](https://uninternet.github.io)
+* [Wiki](https://github.com/UnInternet/uninternet.github.io/wiki)
+* [Rules]()
+* [Discord]()
+* [Donate](https://example.com)
