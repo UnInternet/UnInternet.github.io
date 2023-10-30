@@ -12,6 +12,6 @@
 ## External Links
 * [Website](https://uninternet.github.io)
 * [Wiki](https://github.com/UnInternet/uninternet.github.io/wiki)
-* [Rules]()
-* [Discord]()
+* [Rules](/RULES.md)
+* [Discord](https://discord.com/invite/a6euRPXkfU)
 * [Donate](https://example.com)
