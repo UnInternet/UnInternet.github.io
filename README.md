@@ -9,6 +9,7 @@
 
 ## External Links
 * [Website](https://uninternet.github.io)
+* [Website (Neocities)](https://gabethecat.neocities.org/uninternet)
 * [Wiki](https://github.com/UnInternet/uninternet.github.io/wiki)
 * [Rules](/RULES.md)
 * [CONTRIBUTING file](/CONTRIBUTING.md)
