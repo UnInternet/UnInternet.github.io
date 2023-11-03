@@ -5,7 +5,7 @@
 1. Contribute to the [`UnInternet/districts`](https://github.com/UnInternet/districts) GitHub repo.
 2. Join our [Discord server](https://discord.com/invite/a6euRPXkfU), we will give you a role after joining.
 3. At "Issues", request an issue.
-4. You can only EDIT YOUR FOLDER at the districts repo
+4. You can only EDIT YOUR OWN FOLDER at the districts repo
 
 ## External Links
 * [Website](https://uninternet.github.io)
