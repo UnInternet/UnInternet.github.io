@@ -45,7 +45,7 @@
 			bottom: 0;
 			width: 230px;
 			overflow: auto; /* Scrollbars will appear on this frame only when there's enough content to require scrolling. To disable scrollbars, change to "hidden", or use "scroll" to enable permanent scrollbars */
-			background: #ffcd9a; 		
+			background: #eee; 		
 		}
 		
 		#logo {
