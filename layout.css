@@ -20,22 +20,22 @@
 		}
 		/* unvisited link */
 		#header a:link {
-		  color: black;
+		  color: royalblue;
 		}
 		
 		/* visited link */
 		#header a:visited {
-		  color: black;
+		  color: royalblue;
 		}
 		
 		/* mouse over link */
 		#header a:hover {
-		  color: black;
+		  color: royalblue;
 		}
 		
 		/* selected link */
 		#header a:active {
-		  color: black;
+		  color: royalblue;
 		}
 		
 		#nav {
