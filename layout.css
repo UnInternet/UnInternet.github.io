@@ -15,27 +15,27 @@
 			width: 100%;
 			height: 100px; 
 			overflow: hidden; /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
-			background: #003399;
-			color: white;
+			background: #ccc;
+			color: black;
 		}
 		/* unvisited link */
 		#header a:link {
-		  color: white;
+		  color: black;
 		}
 		
 		/* visited link */
 		#header a:visited {
-		  color: white;
+		  color: black;
 		}
 		
 		/* mouse over link */
 		#header a:hover {
-		  color: white;
+		  color: black;
 		}
 		
 		/* selected link */
 		#header a:active {
-		  color: white;
+		  color: black;
 		}
 		
 		#nav {
