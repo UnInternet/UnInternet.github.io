@@ -4,14 +4,13 @@
 ## How to collaborate
 1. [Fork this repo](https://github.com/UnInternet/UnInternet.github.io/fork).
 2. Join our [Discord server](https://discord.com/invite/a6euRPXkfU), we will give you a role after joining.
-3. At "Issues", request an issue.
-4. You can only EDIT YOUR OWN FOLDER at the districts repo
+3. At "Issues", request an issue for opening a website.
+4. You can only EDIT YOUR OWN FOLDER at this repo
 
 ## External Links
 * [Website](https://uninternet.github.io)
 * [Website (Neocities)](https://gabethecat.neocities.org/uninternet)
 * [Wiki](https://uninternet.github.io/wiki)
 * [Rules](/RULES.md)
-* [CONTRIBUTING file](/CONTRIBUTING.md)
 * [Discord](https://discord.com/invite/a6euRPXkfU)
 * [Donate](https://example.com)
