@@ -5,7 +5,7 @@
 1. [Fork this repo](https://github.com/UnInternet/UnInternet.github.io/fork).
 2. Join our [Discord server](https://discord.com/invite/a6euRPXkfU), we will give you a role after joining.
 3. At "Issues", request an issue for opening a website.
-4. You can only EDIT YOUR OWN FOLDER at this repo
+4. You can only EDIT YOUR OWN FOLDER at the folder `/websites`.
 
 ## External Links
 * [Website](https://uninternet.github.io)
