@@ -12,4 +12,3 @@
 * [Wiki](https://uninternet.github.io/wiki)
 * [Rules](/RULES.md)
 * [Discord](https://discord.com/invite/a6euRPXkfU)
-* [Donate](https://example.com)
