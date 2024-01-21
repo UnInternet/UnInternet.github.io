@@ -3,6 +3,15 @@
   src: url("/assets/fonts/ARIALROUNDEDMT.woff");
 }
 
+@font-face {
+  font-family: "Pixel Comic MS";
+  src: url("/assets/fonts/PixelComicSans-Regular.woff");
+}
+
+body {
+  font-family: "Pixel Comic MS";
+}
+
 .rounded {
   font-family: "Arial Rounded MT";
 }
