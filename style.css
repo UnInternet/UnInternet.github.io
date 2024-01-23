@@ -3,14 +3,13 @@
   src: url("/assets/fonts/ARIALROUNDEDMT.woff");
 }
 
-@@font-face {
-  font-family: "Comic Sans";
-  src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
-  src: url("https://db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.woff");
+@font-face {
+  font-family: "Pixel Comic MS";
+  src: url("/assets/fonts/PixelComicSans-Regular.woff");
 }
 
 body {
-  font-family: "Comic Sans";
+  font-family: "Pixel Comic MS";
   background-image: url("/assets/img/spacebg.gif");
   background-size: cover;
   background-attachment: fixed;
