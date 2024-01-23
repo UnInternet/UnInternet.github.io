@@ -3,6 +3,11 @@
   src: url("/assets/fonts/ARIALROUNDEDMT.woff");
 }
 
+@font-face {
+  font-family: "Planet Kosmos";
+  src: url("/assets/fonts/PlanetKosmos.tff");
+}
+
 body {
   font-family: "Comic Sans MS";
   background-image: url("/assets/img/spacebg.gif");
@@ -20,6 +25,10 @@ h6 {
   font-style: italic;
 }
 
-.rounded {
-  font-family: "Arial Rounded MT";
+.comic {
+  font-family: "Comic Sans MS";
+}
+
+.y2k {
+  font-family: "Planet Kosmos";
 }
