@@ -4,8 +4,8 @@
 }
 
 @font-face {
-  font-family: "Neuropol";
-  src: url("/assets/fonts/NEUROPOL.ttf");
+  font-family: "Neuropol X";
+  src: url("/assets/fonts/neuropol-x.ttf");
 }
 
 body {
@@ -30,5 +30,5 @@ h6 {
 }
 
 .y2k {
-  font-family: Neuropol;
+  font-family: Neuropol X;
 }
