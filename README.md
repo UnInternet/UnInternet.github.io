@@ -10,4 +10,4 @@
 * [Website](https://uninternet.github.io)
 * [Wiki](https://uninternet.github.io/wiki)
 * [Rules](/RULES.md)
-* [Discord](https://discord.com/invite/a6euRPXkfU)
+* [Discussions](https://github.com/UnInternet)
